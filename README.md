@@ -1,4 +1,4 @@
-Expense Analysis and Budgeting System – Description
+#Expense Analysis and Budgeting System – Description
 
 An Expense Analysis and Budgeting System is a software application used to manage personal or organizational finances by recording income and expenses, analyzing spending patterns, and helping users plan budgets effectively. The system automates financial calculations, generates reports, and provides insights to improve money management.
 
