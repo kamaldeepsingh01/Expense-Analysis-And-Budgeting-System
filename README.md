@@ -9,3 +9,9 @@ To analyze spending habits using reports and charts.
 To prepare monthly or yearly budgets.
 To reduce unnecessary expenses and improve savings.
 To provide a user-friendly financial management platform.
+
+<h2>Team members</h2>
+Kamaldeep Singh
+Aditya Kumar
+Saurav Kumar
+Sushil Pandey
