@@ -11,7 +11,7 @@ To reduce unnecessary expenses and improve savings.
 To provide a user-friendly financial management platform.
 
 <h2>Team members</h2>
-Kamaldeep Singh
-Aditya Kumar
-Saurav Kumar
-Sushil Pandey
+Kamaldeep Singh<br>
+Aditya Kumar<br>
+Saurav Kumar<br>
+Sushil Pandey<br>
